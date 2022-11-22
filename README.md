@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-developer920-red)](https://www.youtube.com/channel/UCub0C02iSmaPtqo2_rRLrqQ)
 [![Linkedin Badge](https://img.shields.io/badge/-Ajsal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajsal-pulikkal-49b517220/)](https://www.linkedin.com/in/ajsal-pulikkal-49b517220/)
 
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Ajsal-yellow)](https://stackoverflow.com/users/16977771/ajsal-pulikkal)
